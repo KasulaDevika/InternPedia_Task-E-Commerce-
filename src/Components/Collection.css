@@ -1,0 +1,57 @@
+.news-letter{
+   width: 75%;
+   height: 40vh;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   margin: auto;
+   padding: 0px 140px;
+   margin-bottom: 150px;
+   background: linear-gradient(180deg, whitesmoke, rgb(156, 128, 128) 60%);
+   gap: 30px;
+   margin-bottom: 50px;
+}
+.news-letter{
+    color: rgb(143, 47, 143);
+    font-size: 55px;
+    font-weight: 600;
+}
+.news-letter p{
+    color: rgb(143, 47, 143);
+    font-size: 20px;
+}
+.news-letter div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: whitesmoke;
+    width: 730px;
+    gap: 20px;
+    height: 60px;
+    border-radius: 80px;
+    border: 1px solid white;
+}
+.news-letter input{
+    width: 500px;
+    border-radius: 40px;
+    border: 1px solid rgb(143, 47, 143);
+    padding-left: 10px;
+    margin-left: 30px;
+    bottom: none;
+    outline: none;
+    color: gray;
+    font-family: poppins;
+    font-size: 16px;
+}
+.news-letter div button{
+    width: 210px;
+    height: 60px;
+    border-radius: 50px;
+    border: 1px solid rgb(143, 47, 143);
+    background-color: rgb(143, 47, 143);
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}

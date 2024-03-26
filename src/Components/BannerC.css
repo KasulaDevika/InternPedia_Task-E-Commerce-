@@ -1,0 +1,51 @@
+.banner{
+    height: 32vh;
+    width: 65%;
+    background: linear-gradient(180deg, whitesmoke, rgb(146, 94, 146) 60%);
+    display :flex;
+    margin: 10px 250px;
+    gap: 200px;
+    /* width: 75%;
+    height: 32vh;
+    margin-top: 15px;
+    padding: 10px 140px;
+    flex-direction: column;
+    background: linear-gradient(180deg, whitesmoke, rgb(156, 128, 128) 60%);
+    gap: 30px;
+    margin-left: 200px;
+    line-height: 1.1;
+    display: flex; */
+}
+ .banner-text h1{
+    color: rgb(143, 47, 143);
+    font-size: 50px;
+    font-weight: 600;
+    padding-left: 90px;
+    padding-top: 25px;
+}
+.banner-text p{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 90px;
+}
+.banner-text button{
+    width: 190px;
+    height: 45px;
+    border-radius: 50px;
+    border: 1px solid rgb(143, 47, 143);
+    background-color: white;
+    color: rgb(143, 47, 143);
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-bottom: 50px;
+    margin-left: 90px;
+}
+.banner-img img{
+    padding-top: 30px;
+} 
+.bannerimg img{
+    height:200px;
+    width: 200px;
+}

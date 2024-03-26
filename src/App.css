@@ -1,0 +1,63 @@
+.input input{
+ border: 2px solid rgb(158, 79, 158);
+  margin: 10px;
+  border-radius: 15px;
+}
+.input{
+  display: flex;
+  margin-left: 1000px;
+}
+.input p{
+   font-size: 20px;
+   font-weight: 500;
+   color: rgb(158, 79, 158);
+   margin-top: 10px;
+}
+.own-card{
+  width: 290px;
+  border: 1px solid;
+  padding: 5px;
+  background-color: rgb(158, 79, 158);
+}
+.own-card img{
+  width:280px;
+  height:280px;
+  object-fit: cover;
+}
+.own-card h5{
+  color: white;
+  padding-left: 10px;
+}
+.own-card button{
+  padding: 5px 15px;
+  border: 1px solid;
+  border-radius: 5px;
+  font-weight: 600;
+  background-color: whitesmoke;
+  color: rgb(138, 46, 138);
+  font-weight: 500;
+  margin-left: 10px;
+}
+.products-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-evenly;
+}
+.border button{
+  color: rgb(158, 79, 158);
+  font-weight: 600;
+  font-size: 20px;
+  background-color: whitesmoke;
+  border: 1px solid rgb(158, 79, 158);
+  border-radius: 4px;  
+}
+.border label{
+  color: rgb(158, 79, 158);
+  font-weight: 600;
+  font-size: 20px;
+}
+.border h2{
+  color: rgb(158, 79, 158);
+}
+

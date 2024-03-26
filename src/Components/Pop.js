@@ -1,0 +1,30 @@
+export const Pop = [
+   {
+    "id":"1",
+    "url":"https://m.media-amazon.com/images/I/51pvMdP1ZnL.jpg",
+    "brand":"Lakme",
+    "title":"Lipstick",
+    "price":"₹499/-"
+   },
+   {
+    "id":"2",
+    "url":"https://static.beautytocare.com/cdn-cgi/image/width=1600,height=1600,f=auto/media/catalog/product//l/-/l-oreal-paris-true-match-foundation-3-d-3-w-golden-beige-30ml.jpg",
+    "brand":"L Oreal",
+    "title":"Foundation",
+    "price":"₹398/-"
+   },
+   {
+    "id":"3",
+    "url":"https://cosmoworlds.in/wp-content/uploads/2022/09/EYELINER-6.5ml-NEW2-1-600x600-1-600x600.jpg",
+    "brand":"Dazzler",
+    "title":"Eyelinear",
+    "price":"₹199/-"
+   },
+   {
+    "id":"4",
+    "url":"https://m.media-amazon.com/images/I/61fKV1HTQcL._SY450_.jpg",
+    "brand":"TRESemme",
+    "title":"EyeShadows",
+    "price":"₹899/-"
+   },
+]

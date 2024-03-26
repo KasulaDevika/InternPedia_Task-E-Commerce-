@@ -1,0 +1,33 @@
+.popular{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 90vh;
+}
+.popular h1{
+    color: rgb(134, 50, 134);
+    font-size: 50px;
+    margin-top: 10px;
+}
+.popular h5{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+.popular hr{
+    width: 200px;
+    height: 6px;
+    border-radius: 10px;
+    background-color: blueviolet;
+}
+.popular-item{
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+.own-card img{
+    width: 270px;
+    height: 270px;
+    padding-left: 10px;
+}
